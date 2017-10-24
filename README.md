@@ -5,4 +5,6 @@ Create and Manage digital ocean proxies with ease
 
 2) Add Digital Ocean Key to script
 
-3) Get creative
+3) Add PC's ssh key to digitalocean account
+
+4) Get creative
